@@ -3,6 +3,6 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianna-sarah-alexis-agbunag-41b087310)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:briannaagbunag@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](briannaagbunag@yahoo.com)
 
 ✨ Thanks for visiting my profile!
