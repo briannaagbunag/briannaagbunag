@@ -1,7 +1,8 @@
 # 👋 Hi! I'm Brianna
+*I am currently working on my GitHub webpage — please feel free to contact me!*
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/brianna-sarah-alexis-agbunag-41b087310)
-- [Email Me](mailto:briannaagbunag@yahoo.com?subject=Hello%20Bri&body=I%20saw%20your%20GitHub%20profile!)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianna-sarah-alexis-agbunag-41b087310)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:briannaagbunag@yahoo.com)
 
 ✨ Thanks for visiting my profile!
