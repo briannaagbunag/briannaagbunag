@@ -13,7 +13,7 @@
         </a>
         <br/>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=briannaagbunag&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=github_dark&hide=javascript,html,css,scss,nunjucks" alt="Top Languages"/>
+          <img src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=briannaagbunag&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=github_dark" alt="Top Languages"/>
         </a>
       </td>
       <!-- Right column: Overall stats -->
