@@ -13,6 +13,19 @@ Please feel free to contact me!*
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=briannaagbunag&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=briannaagbunag&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briannaagbunag&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+</p>
+
+
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.demolab.com?user=briannaagbunag&theme=tokyonight&hide_border=true&ring=7AA2F7&fire=F7768E&currStreakLabel=C0CAF5"
     width="420"
