@@ -1,8 +1,27 @@
 # 👋 Hi! I'm Brianna
-*I am currently working on my GitHub webpage (https://briannaagbunag.github.io/). Please feel free to contact me!*
+
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Aspiring+Software+Developer;Creative+Problem+Solver;Building+One+Project+at+a+Time&center=true&width=500)
+
+*I am currently working on my GitHub webpage (https://briannaagbunag.github.io/).  
+Please feel free to contact me!*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briannaagbunag&show_icons=true&theme=tokyonight)
+
+### 🧠 Most-Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briannaagbunag&layout=compact&theme=tokyonight)
+
+
+---
 
 ## 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brianna-sarah-alexis-agbunag-41b087310)
 [![Email](https://img.shields.io/badge/briannaagbunag@yahoo.com-red?style=for-the-badge&logo=yahoo)](mailto:briannaagbunag@yahoo.com)
+
+---
 
 ✨ Thanks for visiting my profile!
