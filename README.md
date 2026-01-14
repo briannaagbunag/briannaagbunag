@@ -8,8 +8,7 @@ Please feel free to contact me!*
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briannaagbunag&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=briannaagbunag)](https://github.com/=briannaagbunag/github-readme-stats)
 
 ### 🧠 Most-Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briannaagbunag&layout=compact&theme=tokyonight)
