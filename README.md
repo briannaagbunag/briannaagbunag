@@ -3,28 +3,27 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
 <p align="center">
   <table>
     <tr>
-      <!-- Left column: Streak + Top languages -->
+      <!-- Left column: Streak -->
       <td>
         <a href="https://git.io/streak-stats">
           <img src="https://github-readme-streak-stats-tau-ruddy.vercel.app?user=briannaagbunag&theme=transparent&hide_border=true&fire=EB5454" alt="GitHub Streak" />
         </a>
         <br/>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=briannaagbunag&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=github_dark" alt="Top Languages"/>
-        </a>
       </td>
-      <!-- Right column: Overall stats -->
+      <!-- Right column: Top language -->
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-333y.vercel.app/api?username=briannaagbunag&theme=github_dark&hide_border=true&card_width=495" alt="GitHub Stats"/>
+          <img src="https://github-readme-stats-333y.vercel.app/api/top-langs/?username=briannaagbunag&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=github_dark" alt="Top Languages"/>
         </a>
       </td>
     </tr>
   </table>
 </p>
+</div>
 
 ---
 
